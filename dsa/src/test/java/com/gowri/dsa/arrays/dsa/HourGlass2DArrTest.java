@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 
 /**
  * @author gowrisundarsuriyanarayanan
- * 
+ * https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true
  * Problem Statement:
  * Given a  2D Array, :
 
@@ -104,7 +104,7 @@ public class HourGlass2DArrTest extends TestCase {
      */
     public static Test suite()
     {
-        return new TestSuite( ReverseArrayTest.class );
+        return new TestSuite( HourGlass2DArrTest.class );
     }
 
     /**

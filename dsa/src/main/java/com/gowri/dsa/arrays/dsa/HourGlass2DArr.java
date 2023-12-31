@@ -2,6 +2,10 @@ package com.gowri.dsa.arrays.dsa;
 
 import java.util.List;
 
+/**
+ * @author gowrisundarsuriyanarayanan
+ */
+
 public class HourGlass2DArr {
 	
 	public static int getMaxSumOfHourGlassFrom(List<List<Integer>> twoDimArr) {

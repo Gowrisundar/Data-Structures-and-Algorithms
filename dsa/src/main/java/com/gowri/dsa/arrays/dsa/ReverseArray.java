@@ -3,7 +3,7 @@ package com.gowri.dsa.arrays.dsa;
 import java.util.List;
 
 /**
- * Hello world!
+ * @author gowrisundarsuriyanarayanan
  *
  */
 public class ReverseArray 
