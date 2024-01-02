@@ -8,8 +8,8 @@ import java.util.Map;
 /**
  * @author gowrisundarsuriyanarayanan
  * 
- * This solution uses n * n big o notation resulting in O(n^2)
- * This is not suitable for large data set
+ * This solution uses  big o notation resulting in O(n)
+ * This solution uses two separate loops not nested loops so it can be suitable for large datasets
  */
 public class SparseArraySolution2 {
 
