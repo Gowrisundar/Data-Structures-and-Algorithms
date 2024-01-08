@@ -1,8 +1,11 @@
-package com.gowri.dsa.arrays.dsa;
+package com.gowri.dsa.arrays.ds;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
+import com.gowri.dsa.arrays.ds.SparseArraySolution1;
+import com.gowri.dsa.arrays.ds.SparseArraySolution2;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

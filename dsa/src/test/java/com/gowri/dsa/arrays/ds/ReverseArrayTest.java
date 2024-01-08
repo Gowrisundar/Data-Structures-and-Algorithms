@@ -1,9 +1,11 @@
-package com.gowri.dsa.arrays.dsa;
+package com.gowri.dsa.arrays.ds;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+import com.gowri.dsa.arrays.ds.ReverseArray;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

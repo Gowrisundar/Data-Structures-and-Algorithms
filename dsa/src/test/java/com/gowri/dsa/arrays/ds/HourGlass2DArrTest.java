@@ -1,8 +1,10 @@
-package com.gowri.dsa.arrays.dsa;
+package com.gowri.dsa.arrays.ds;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
+import com.gowri.dsa.arrays.ds.HourGlass2DArr;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

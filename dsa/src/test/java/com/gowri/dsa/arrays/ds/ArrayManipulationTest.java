@@ -1,4 +1,4 @@
-package com.gowri.dsa.arrays.dsa;
+package com.gowri.dsa.arrays.ds;
 
 import static org.junit.Assert.assertEquals;
 
@@ -7,6 +7,9 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Test;
+
+import com.gowri.dsa.arrays.ds.ArrayManipulationSolution1;
+import com.gowri.dsa.arrays.ds.ArrayManipulationSolution2;
 
 /**
  * @author gowrisundarsuriyanarayanan

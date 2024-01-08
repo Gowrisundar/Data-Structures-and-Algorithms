@@ -1,4 +1,4 @@
-package com.gowri.dsa.arrays.dsa;
+package com.gowri.dsa.arrays.ds;
 
 import java.util.ArrayList;
 import java.util.HashMap;

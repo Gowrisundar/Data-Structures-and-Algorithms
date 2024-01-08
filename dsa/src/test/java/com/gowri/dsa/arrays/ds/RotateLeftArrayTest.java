@@ -1,10 +1,14 @@
-package com.gowri.dsa.arrays.dsa;
+package com.gowri.dsa.arrays.ds;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Ignore;
+
+import com.gowri.dsa.arrays.ds.RotateLeftArraySolutionOne;
+import com.gowri.dsa.arrays.ds.RotateLeftArraySolutionThree;
+import com.gowri.dsa.arrays.ds.RotateLeftArraySolutionTwo;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
