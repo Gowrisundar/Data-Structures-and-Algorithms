@@ -30,3 +30,10 @@ replay_pid*
 /dsa/.gitignore
 /dsa/.classpath
 /dsa/.DS_Store
+
+
+/GeeksForGeeks160Days/.settings/
+/GeeksForGeeks160Days/.project
+/GeeksForGeeks160Days/.gitignore
+/GeeksForGeeks160Days/.classpath
+/GeeksForGeeks160Days/.DS_Store
