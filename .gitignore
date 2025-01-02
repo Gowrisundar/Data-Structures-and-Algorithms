@@ -37,3 +37,9 @@ replay_pid*
 /GeeksForGeeks160Days/.gitignore
 /GeeksForGeeks160Days/.classpath
 /GeeksForGeeks160Days/.DS_Store
+
+/LeetCode150/.settings/
+/LeetCode150/.project
+/LeetCode150/.gitignore
+/LeetCode150/.classpath
+/LeetCode150/.DS_Store
